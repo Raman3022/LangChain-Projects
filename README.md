@@ -8,11 +8,17 @@ Built with modular notebooks and scripts, this project is ideal for learning, ex
 
 🌟 Key Features
 ✅ Retrieval-Augmented Generation (RAG)
+
 ✅ OpenAI, Ollama, Hugging Face LLM support
+
 ✅ ChromaDB and FAISS Vector Stores
+
 ✅ PDF, HTML, JSON, and text data processing
+
 ✅ Conversational and document-aware chatbots
+
 ✅ Embedding generation pipelines
+
 ✅ Modular, well-structured notebooks
 
  What is RAG?
@@ -36,20 +42,32 @@ How It Works (RAG Flow in the project)
 
 
 Technologies Used:
+
 1.LangChain
+
 2.OpenAI
+
 3.Ollama (Local LLMs)
+
 4.Chroma
+
 5.FAISS
+
 6.Hugging Face Transformers
+
 7.FastAPI
 
 Use Cases:
 1.RAG-based Chatbots
+
 2.Legal Document QA
+
 3.Voice Transcript Search
+
 4.Scientific Paper Understanding
+
 5.LLM + Custom Dataset Solutions
+
 
 
 📬 Contact
