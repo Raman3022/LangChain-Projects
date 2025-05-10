@@ -3,10 +3,11 @@ This project is a complete end-to-end implementation of Retrieval-Augmented Gene
 
 Built with modular notebooks and scripts, this project is ideal for learning, experimentation, and even production deployment of LLM-based Q&A systems.
 
-# LangChain-Projects
+# LangChain-Project:
 
 
 🌟 Key Features
+
 ✅ Retrieval-Augmented Generation (RAG)
 
 ✅ OpenAI, Ollama, Hugging Face LLM support
@@ -57,7 +58,9 @@ Technologies Used:
 
 7.FastAPI
 
+
 Use Cases:
+
 1.RAG-based Chatbots
 
 2.Legal Document QA
