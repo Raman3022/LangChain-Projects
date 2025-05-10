@@ -1,0 +1,25 @@
+langchain
+python-dotenv
+bs4
+requests 
+arxiv
+pymupdf
+langchain-text-splitters
+langchain-openai
+chromadb 
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+
+#openai ai project
+langchain-openai
+beautifulsoup4 # chatbot
+langchain-community # chatbot
+streamlit 
+langchain-groq
+langchain_core 
+fastapi 
+uvicorn 
+langserve 
+sse_starlette
