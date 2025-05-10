@@ -27,6 +27,9 @@ Retrieval-Augmented Generation (RAG) is a framework that improves LLM responses 
 
 This makes the system more factual, scalable, and adaptable to domain-specific content (e.g., custom PDF files or speech transcripts).
 
+
+
+
 How It Works (RAG Flow in the project)
 1.Ingest Documents: PDF, speech transcripts, HTML, etc.
 
@@ -39,6 +42,9 @@ How It Works (RAG Flow in the project)
 5.Query via LLM: Retrieve relevant docs and generate grounded answers.
 
 6.Conversational Memory: Use LangChain memory modules for continuity.
+
+
+
 
 
 
@@ -57,6 +63,10 @@ Technologies Used:
 6.Hugging Face Transformers
 
 7.FastAPI
+
+
+
+
 
 
 Use Cases:
